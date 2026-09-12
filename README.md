@@ -1,6 +1,6 @@
 # reddify.ca
 
-**An automated short-form content platform that transforms a topic into a complete Reddit-style story video.**
+**A short-form content platform powered by automation and AI pipelines, reaching 50+ active subscribers and ~$10K ARR.**
 
 [Live product](https://reddify.ca)
 
