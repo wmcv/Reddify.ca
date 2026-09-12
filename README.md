@@ -10,6 +10,10 @@ reddify.ca helps creators produce short-form story videos without manually scrip
 
 A user provides a topic and content preferences. The platform coordinates a series of AI and media-processing stages to generate the script, voiceover, visual composition, and final video.
 
+## Demo
+
+[![Watch the reddify.ca demo](https://img.youtube.com/vi/oTkruH-9ESo/maxresdefault.jpg)](https://youtu.be/oTkruH-9ESo)
+
 The product reached **50+ active subscribers** and approximately **$10K in annual recurring revenue**.
 
 ---
